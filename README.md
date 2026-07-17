@@ -47,7 +47,7 @@ graph TD
 1. Clone the repository and navigate to the project directory:
    ```bash
    git clone <repository-url>
-   cd google_maps_scraper
+   cd WhatsFlow-AI
    ```
 
 2. Install dependencies:
