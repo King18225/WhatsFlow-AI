@@ -1,0 +1,17 @@
+.env
+.env.local
+node_modules/
+dist/
+build/
+.DS_Store
+*.log
+chrome_session/
+wa_session/
+*.json
+!package.json
+!package-lock.json
+!status_bairros.json
+!leads_maps.json
+!leads_com_site.json
+!leads_sem_site.json
+!sdr_status.json
